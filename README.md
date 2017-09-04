@@ -1,4 +1,4 @@
-# PS-2017-2-ES-ProcessoSeletivo
+# PS-2017-2-ES-SelecaoVagas
 ### Projeto de Software:
 > Professor Rubens de Castro Ferreira
 
@@ -10,6 +10,8 @@
 
 **Tema:**
 > Processo Seletivo
+
+> [Link informativo sobre o projeto](https://docs.google.com/document/d/1KjR_8KMq6rRnbRZDf_ObE_dSliibSpk1DyOCIBojlCQ/edit?usp=sharing)
 
 **Alunos:**
 ```
